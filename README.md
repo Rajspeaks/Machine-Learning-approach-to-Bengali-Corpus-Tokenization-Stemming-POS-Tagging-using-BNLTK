@@ -4,10 +4,8 @@ BNLTK Means Bengali Natural Language Toolkit developed by [Asraf Patoary](https:
 
 ## Installation:
 
-``` 
-
+```
 pip install bnltk
-
 ```
 
 ## Methodology
